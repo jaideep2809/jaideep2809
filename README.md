@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaideep
 - 👀 I’m interested in web2.
-- 🌱 I’m currently learning MERN stack development.
+- 🌱 I’m currently learning new tech related to Data Analytics
 
 <!---
 jaideep2809/jaideep2809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
